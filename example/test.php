@@ -6,7 +6,7 @@
  * Copyright(c)2013-2017, TUPU Technology
  * http://www.tuputech.com
  */
-
+1
 require '../tupuclient.php';
 
 

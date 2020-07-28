@@ -3,5 +3,7 @@ example/img/
 
 example/keys/
 
+.idea
+test.php
 example/test2.php
 example/test-bi2.php
